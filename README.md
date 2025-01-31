@@ -26,25 +26,9 @@ Algorithms – Data structures, recursion, resource management.
 
 *(These technologies will be explored as I progress through École 42.)*
 
-## 📂 Key Projects
-**📜 [Libft](https://github.com/gaspardboidin/Libft) – My Custom C Library**
-
-🔹 A reimplementation of standard libc functions in C.
-
-🔹 Serves as a foundation for more advanced projects such as Get_Next_Line and Printf.
-
-**🖨️ [Printf](https://github.com/gaspardboidin/Printf) – Custom Printf Implementation**
-
-🔹 A reproduction of the printf() function in C, handling variadic arguments and optimized for performance.
-
-**📄 [Get_Next_Line](https://github.com/gaspardboidin/Get_Next_Line) – Reading Files Line by Line**
-
-🔹 Efficient memory management and buffer adaptation using BUFFER_SIZE.
-
-*(More projects will be added progressively!)*
 
 ## 🎯 Goals
-### 📌 Short Term
+
 ✅ Complete the common core curriculum at École 42 by December 2025.
 
 🔹 Develop a deep understanding of C, Shell, algorithms, and system management.
@@ -53,7 +37,6 @@ Algorithms – Data structures, recursion, resource management.
 
 🔹 Work on personal and open-source projects to strengthen my portfolio.
 
-### 📌 Mid Term
 ✅ Secure an internship abroad, ideally in the United States.
 
 🔹 Gain experience in an international work environment.
@@ -62,14 +45,7 @@ Algorithms – Data structures, recursion, resource management.
 
 🔹 Build a professional network in the tech industry.
 
-### 📌 Long Term
-✅ Join a company that aligns with my values or launch my own startup.
 
-🔹 Contribute to innovative projects, particularly in software development and artificial intelligence.
-
-🔹 Continue learning and advancing toward cutting-edge technologies (C++, Python, Machine Learning).
-
-🔹 If the right opportunity arises, found my own company, merging tech, entrepreneurship, and innovation.
 
 ## 📬 Contact Me
 📧 Email: gboidin.16@gmail.com
