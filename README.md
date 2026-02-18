@@ -1,5 +1,5 @@
 # Gaspard Boidin  
-**Lead Developer · Product Builder · SaaS Architecture**
+**Developer · Product Builder · SaaS Architecture**
 
 I design and build structured, scalable digital products.
 
