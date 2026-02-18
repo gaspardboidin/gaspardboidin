@@ -1,57 +1,84 @@
-# 👨‍💻 Welcome to My GitHub!
-## 📝 About Me
-I hold a Bachelor’s degree in **Web Marketing** from ESC Amiens, but I decided to shift my career toward **software development**, a field that has fascinated me since childhood.
+# Gaspard Boidin  
+**Lead Developer · Product Builder · SaaS Architecture**
 
-My turning point? The numerous startup ideas I wanted to bring to life. To make them a reality, I needed **strong programming skills**. Today, I am a student at **42 Paris**, where I specialize in low-level programming, algorithms, and Unix systems.
+I design and build structured, scalable digital products.
 
-I have a keen interest in **artificial intelligence**, and I plan to specialize in this field in the future. For now, I am focused on mastering the technical foundations.
+Background in business & marketing (ESC Amiens), now focused on software engineering and product architecture. I work at the intersection of technical execution, system design, and product thinking.
 
-## 🚀 Technical Skills
-### 📌 Currently Learning
-**C & Shell** – Low-level development, memory management, file manipulation.
-Algorithms – Data structures, recursion, resource management.
+Currently deepening low-level foundations (École 42), while building real-world SaaS and internal tools using modern web stacks.
 
-**Linux (Debian), Windows (with WSL) & MacOS** – System administration, development environment.
+---
 
-**Git & GitHub** – Version control and best coding practices.
+## What I Do
 
-### 📌 Coming Soon
-**C++** – Object-oriented programming and advanced optimization.
+- Architect full-stack web applications  
+- Design scalable backend systems  
+- Build SaaS products from MVP to production  
+- Structure authentication, roles & data security  
+- Translate business needs into technical systems  
 
-**Docker** – Containerization and environment management.
+I approach development with a product mindset: clarity, performance, maintainability.
 
-**Python** – Automation, scripting, and potential AI applications.
+---
 
-**PHP & TypeScript** – Web development and backend programming.
+## Core Stack
 
-*(These technologies will be explored as I progress through École 42.)*
+### Frontend
+Next.js · React · TypeScript · Tailwind  
 
+### Backend
+Node.js · NestJS · REST APIs  
 
-## 🎯 Goals
+### Database
+PostgreSQL · Supabase · Prisma  
 
-✅ Complete the common core curriculum at École 42 by December 2025.
+### Infrastructure
+Vercel · CI/CD (basic) · Docker (learning)  
 
-🔹 Develop a deep understanding of C, Shell, algorithms, and system management.
+### Systems
+C · Shell · Unix · Memory management (École 42)
 
-🔹 Enhance my skills in code optimization, memory management, and low-level development.
+---
 
-🔹 Work on personal and open-source projects to strengthen my portfolio.
+## Selected Work
 
-✅ Secure an internship abroad, ideally in the United States.
+### HybridCore (SaaS – in progress)
+Hybrid athlete training platform.  
+Architecture: Next.js + PostgreSQL + role-based access + scalable data modeling.  
+Focus: performance tracking, structured programs, API integrations.
 
-🔹 Gain experience in an international work environment.
+---
 
-🔹 Work on real-world projects to apply my software development skills.
+### Secure Reporting Tool (Internal Product)
+Confidential report management system for holding structure.  
+Role-based access control, secure data handling, structured workflows.
 
-🔹 Build a professional network in the tech industry.
+---
 
+### E-commerce Headless Platform
+Product-first implementation with internationalization and performance optimisation.
 
+---
 
-## 📬 Contact Me
-📧 Email: gboidin.16@gmail.com
+## Current Focus
 
-💼 LinkedIn: [Link](https://www.linkedin.com/in/gaspard-boidin/)
+- Deep system-level understanding (C, memory, algorithms)  
+- Backend architecture & modular design  
+- Scalable SaaS systems  
+- Long-term: AI & intelligent systems  
 
-🌐 GitHub: [Link](https://github.com/gaspardboidin)
+---
 
-#### Feel free to explore my projects and reach out for collaboration, discussions, or career opportunities! 🚀
+## Objectives
+
+- Build durable, production-grade systems  
+- Lead technical architecture decisions  
+- Operate at the intersection of product & engineering  
+
+---
+
+## Contact
+
+Email: contact@gaspardboidin.com
+LinkedIn: https://www.linkedin.com/in/gaspard-boidin/  
+GitHub: https://github.com/gaspardboidin
