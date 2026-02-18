@@ -62,18 +62,19 @@ Product-first implementation with internationalization and performance optimisat
 
 ## Current Focus
 
-- Deep system-level understanding (C, memory, algorithms)  
-- Backend architecture & modular design  
-- Scalable SaaS systems  
-- Long-term: AI & intelligent systems  
+- Continuous technical improvement across system-level and web architecture  
+- Backend architecture & modular system design  
+- AI integration in real-world applications (APIs, automation, product features)  
+- Building production-ready SaaS systems  
 
 ---
 
 ## Objectives
 
-- Build durable, production-grade systems  
-- Lead technical architecture decisions  
-- Operate at the intersection of product & engineering  
+- Become a high-level engineer through deliberate practice and real-world execution  
+- Master software architecture across backend, systems, and scalable infrastructure  
+- Integrate AI capabilities into practical, user-focused products  
+- Operate at the intersection of product strategy and engineering execution  
 
 ---
 
